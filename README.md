@@ -1,3 +1,4 @@
+[![View Image clustering and dimension reduction using CNN on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/75342-image-clustering-and-dimension-reduction-using-cnn)
 # Dimension reduction and clustering for images 
 
 
@@ -126,7 +127,7 @@ gscatter(T(:,1),T(:,2),Labels)
 
 ![figure_1.png](README_images/figure_1.png)
 
-# Image clustering using k-means after feature extraction with Darknet-19
+# Image clustering using k-means after feature extraction with resnet-18
 
 ```matlab:Code
 % perform k-means algorithm 
