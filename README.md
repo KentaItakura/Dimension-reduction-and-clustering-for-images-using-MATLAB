@@ -124,7 +124,7 @@ gscatter(T(:,1),T(:,2),Labels)
 ```
 
 
-![figure_1.eps](README_images/figure_1.eps)
+![figure_1.png](README_images/figure_1.png)
 
 # Image clustering using k-means after feature extraction with Darknet-19
 
